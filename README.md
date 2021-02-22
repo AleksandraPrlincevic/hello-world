@@ -1,2 +1,3 @@
 # hello-world
 Testing
+I'm learning new skills. I'm not crazy about it. Sitting at computer desk is bad for the back. My neck also hurts...
